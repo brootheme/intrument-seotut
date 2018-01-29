@@ -1,1 +1,8 @@
-# intrument-seotut
+# Набор инструментов и ссылок, полезных в работе веб-разработчика
+## Обжимание изображений
+#### Онлайн сервисы
+TinyJpg - https://tinyjpg.com/
+TinyPng - https://tinypng.com/
+## Полезные сервисы
+https://codepen.io/ - наборы pen'ов с готовыми примерами
+https://www.flaticon.com/ - наборы готовых иконок, в том числе и с svg
