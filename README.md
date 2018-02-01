@@ -30,5 +30,5 @@
 * [minifyX](https://modstore.pro/packages/utilities/minifyx) - сжатие css и js в 1 файл много параметров
 * [ajaxSnippet](https://modstore.pro/packages/utilities/ajaxsnippet) - запуск любых сниппетов через ajax
 ### Хорошие решения
-* [Контроль кэша css и js] (https://webstool.ru/kak-kontrolirovat-kesh-css-i-skriptov.html) - через сниппет проверяем хеш-файла (так делают многие гиганты интернета, чтобы не заставлять юзеров жать ctrl + f5)
+* [Контроль кэша css и js](https://webstool.ru/kak-kontrolirovat-kesh-css-i-skriptov.html) - через сниппет проверяем хеш-файла (так делают многие гиганты интернета, чтобы не заставлять юзеров жать ctrl + f5)
 * Формы обратной связи (чтоы использовать отдельные компоненты системы) [webstool](https://webstool.ru/feedbackform.html) - пока не рассмотрел :-), [itChief](https://itchief.ru/lessons/php/pop-up-feedback-form#comment-5306) - выгрузка форм из одного файла, [WebDesignMaster](https://webdesign-master.ru/blog/tools/578.html) - любое кол-во полей
