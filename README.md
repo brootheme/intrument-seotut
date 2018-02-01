@@ -1,4 +1,5 @@
 # Набор инструментов и ссылок
+Документация по markdown [docs.modx.pro](https://docs.modx.pro/) и офф вариант [DaringFireBall](https://daringfireball.net/projects/markdown/)
 ## Обжимание изображений
 #### Онлайн сервисы
 * [TinyJpg](https://tinyjpg.com/) - для jpg изображений
