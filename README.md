@@ -10,6 +10,7 @@
 * [w3school](https://www.w3schools.com/howto/default.asp) - набор готовых элементов
 * [301 редирект](https://web-optimizator.com/301-redirekt-htaccess/) - набор редиректов на все случаи жизни
 * [phx](https://gaserge.ru/blog/modx-revolution/filtryi-phx-(-modifikatoryi-)-v-modx-revo.html) - примеры phx модификаторов
+* [тестирование производительности хостинга](https://tools.lite.company/performance/) - скачать файл и поместить в корень сайта, при запуске вывдет информацию о железе хостинга
 ## Дополнения к MODX
 #### Базовый репозиторий
 * [Ace](https://modstore.pro/packages/content/ace) - редактор кода с подсветкой
