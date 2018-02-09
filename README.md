@@ -13,6 +13,9 @@
 * [sweetalert](https://github.com/t4t5/sweetalert) и [DEMO](https://sweetalert.js.org/) - красивые всплывающие уведомления
 * [rangeslider](http://ionden.com/a/plugins/ion.rangeslider/) - и [DEMO](http://ionden.com/a/plugins/ion.rangeSlider/demo.html) красивый слайдер диапозонов
 * [customScrollBar](https://github.com/malihu/malihu-custom-scrollbar-plugin) и [DEMO](http://manos.malihu.gr/repository/custom-scrollbar/demo/examples/complete_examples.html) - множество скролл баров
+* [animateCSS](https://github.com/daneden/animate.css) - Анимации элементов сайта, лучше использовать с WOW (ниже)
+* [WOW](https://github.com/matthieua/WOW) - запуск после попадания в область видимости
+* [SPIN](http://spin.js.org/) - Создает SPIN (прелоадер круговой)
 ## Обжимание изображений
 #### Онлайн сервисы
 * [TinyJpg](https://tinyjpg.com/) - для jpg изображений
