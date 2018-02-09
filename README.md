@@ -3,8 +3,10 @@
 
 Навигация по файлу:
 [Хорошие решения](https://github.com/seotut/intrument-seotut/blob/master/README.md#%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F)
-
-
+# JQuery
+### Библиотеки и решения
+* [niceSelect](http://hernansartorio.com/jquery-nice-select/) - делает красивый селект (выпадающий список)
+* [searchable select](https://www.jqueryscript.net/form/jQuery-Plugin-For-Custom-Searchable-Select-List-Customselect.html) - поиск в селекте (выпадающем списке) 
 ## Обжимание изображений
 #### Онлайн сервисы
 * [TinyJpg](https://tinyjpg.com/) - для jpg изображений
@@ -39,3 +41,6 @@
 ### Хорошие решения
 * [Контроль кэша css и js](https://webstool.ru/kak-kontrolirovat-kesh-css-i-skriptov.html) - через сниппет проверяем хеш-файла (так делают многие гиганты интернета, чтобы не заставлять юзеров жать ctrl + f5)
 * Формы обратной связи (чтоы использовать отдельные компоненты системы) [webstool](https://webstool.ru/feedbackform.html) - пока не рассмотрел :-), [itChief](https://itchief.ru/lessons/php/pop-up-feedback-form#comment-5306) - выгрузка форм из одного файла, [WebDesignMaster](https://webdesign-master.ru/blog/tools/578.html) - любое кол-во полей
+### Расширения для Google Chrome
+* 
+* [Топвизор](Топвизор) - нумерация позиий сайтов в поисковой выдаче, бытрый переход к проектам, апометру и API
