@@ -9,7 +9,7 @@
 * [searchable select](https://www.jqueryscript.net/form/jQuery-Plugin-For-Custom-Searchable-Select-List-Customselect.html) - поиск в селекте (выпадающем списке) 
 * [slick-slide](http://kenwheeler.github.io/slick/) - адаптивный слайдер с множеством функций
 * [magnific-popup](http://dimsemenov.com/plugins/magnific-popup/) - всплывающие окна
-* [smartmenus](https://www.smartmenus.org/about/themes/) - адаптивное меню с удобной мобилньой реализацией
+* [smartmenus](https://www.smartmenus.org/about/themes/) - адаптивное меню с удобной мобильной реализацией
 * [sweetalert](https://github.com/t4t5/sweetalert) и [DEMO](https://sweetalert.js.org/) - красивые всплывающие уведомления
 * [rangeslider](http://ionden.com/a/plugins/ion.rangeslider/) - и [DEMO](http://ionden.com/a/plugins/ion.rangeSlider/demo.html) красивый слайдер диапозонов
 * [customScrollBar](https://github.com/malihu/malihu-custom-scrollbar-plugin) и [DEMO](http://manos.malihu.gr/repository/custom-scrollbar/demo/examples/complete_examples.html) - множество скролл баров
