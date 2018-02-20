@@ -31,6 +31,7 @@
 * [CodePen.io](https://codepen.io/) - наборы pen'ов с готовыми примерами
 * [FlatIcon.com](https://www.flaticon.com/) - наборы готовых иконок, в том числе и с svg
 * [w3school](https://www.w3schools.com/howto/default.asp) - набор готовых элементов
+* [caniuse.com](https://caniuse.com/) - поддержка бразуерами тегов html и css
 * [301 редирект](https://web-optimizator.com/301-redirekt-htaccess/) - набор редиректов на все случаи жизни
 * [phx](https://gaserge.ru/blog/modx-revolution/filtryi-phx-(-modifikatoryi-)-v-modx-revo.html) - примеры phx модификаторов
 * [тестирование производительности хостинга](https://tools.lite.company/performance/) - скачать файл и поместить в корень сайта, при запуске вывдет информацию о железе хостинга
@@ -55,7 +56,7 @@
 * [minifyX](https://modstore.pro/packages/utilities/minifyx) - сжатие css и js в 1 файл много параметров
 * [ajaxSnippet](https://modstore.pro/packages/utilities/ajaxsnippet) - запуск любых сниппетов через ajax
 ### Хорошие решения
-* [Тестирование достижения цели](https://yandex.ru/support/metrika/reports/add-goals.html#check-goal) - инструкция от яндекса как проверить достижение цели
+* [Тестирование достижения цели](https://yandex.ru/support/metrika/reports/add-goals.html#check-goal) - инструкция от яндекса как проверить достижение цели для метрики
 * [Контроль кэша css и js](https://webstool.ru/kak-kontrolirovat-kesh-css-i-skriptov.html) - через сниппет проверяем хеш-файла (так делают многие гиганты интернета, чтобы не заставлять юзеров жать ctrl + f5)
 * Формы обратной связи (чтоы использовать отдельные компоненты системы) [webstool](https://webstool.ru/feedbackform.html) - пока не рассмотрел :-), [itChief](https://itchief.ru/lessons/php/pop-up-feedback-form#comment-5306) - выгрузка форм из одного файла, [WebDesignMaster](https://webdesign-master.ru/blog/tools/578.html) - любое кол-во полей
 ### Расширения для Google Chrome
