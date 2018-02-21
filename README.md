@@ -25,7 +25,7 @@
 * [SPIN](http://spin.js.org/) - Создает SPIN (прелоадер круговой)
 ## Обжимание изображений
 #### Онлайн сервисы
-* [compressor.io](https://compressor.io/compress) - отличное сжимание изображения без потерь, недостатки: по 1 файлу, к названия добавляет -compressor
+* [compressor.io](https://compressor.io/compress) - отличное сжимание изображения без потерь, недостатки: по 1 файлу, к названию добавляет -compressor
 * [TinyJpg](https://tinyjpg.com/) - для jpg изображений
 * [TinyPng](https://tinypng.com/) - для png изображений
 ## Полезные сервисы
