@@ -5,3 +5,6 @@
 * [optimizilla](http://optimizilla.com/) - сжатие нескольких файлов с выбором качества
 * [TinyJpg](https://tinyjpg.com/) - для jpg изображений
 * [TinyPng](https://tinypng.com/) - для png изображений
+## Цели
+* [Тестирование достижения цели](https://yandex.ru/support/metrika/reports/add-goals.html#check-goal) - инструкция от яндекса как проверить достижение цели для метрики
+* [Цель отправка формы gist](https://gist.github.com/seotut/5bee8c6b381724417285d63eb765a02e) - цели для Яндекс метрики и электронной коммерции
