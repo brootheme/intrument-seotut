@@ -33,7 +33,8 @@
 * [FlatIcon.com](https://www.flaticon.com/) - наборы готовых иконок, в том числе и с svg
 * [w3school](https://www.w3schools.com/howto/default.asp) - набор готовых элементов
 * [caniuse.com](https://caniuse.com/) - поддержка бразуерами тегов html и css
-* [cvan.io](https://cvan.io/flexboxin5/) - FLEX визуально
+* [css_to_saas](http://css2sass.herokuapp.com/) - онлайн компилятор css в sass или scss
+* [cvan.io](https://cvan.io/flexboxin5/) - FLEX визуально все свойства
 * [301 редирект](https://web-optimizator.com/301-redirekt-htaccess/) - набор редиректов на все случаи жизни
 * [phx](https://gaserge.ru/blog/modx-revolution/filtryi-phx-(-modifikatoryi-)-v-modx-revo.html) - примеры phx модификаторов
 * [тестирование производительности хостинга](https://tools.lite.company/performance/) - скачать файл и поместить в корень сайта, при запуске вывдет информацию о железе хостинга
@@ -48,10 +49,10 @@
 * ClientConfig - управление статичными элементами сайта для обновления (удобно для номеров телефонов, контактов)
 * Collections - вывод дочерних ресурсов в табличном представлении (ресурсы не отображаются в дереве) - удобно для новостей, но так же можно использовать и для услуг - в таком виде удобно кастомизировать таблицу и обновлять часть полей, не заходя в ресурс (цены, сроки)
 * ControlErrorLog [Doc](https://modzone.ru/documentation/controlerrorlog.html)- вывод лога ошибок в верхнем меню с просмотром в всплывающем окне
-* image+ - компонент для обрезания изображения по выделенной области (как аватарки в вк)
+* [image+](https://www.modx.cc/documentation/additions/image/) - компонент для обрезания изображения по выделенной области (как аватарки в вк)
 * [admintools](https://modstore.pro/packages/utilities/admintools) [docs](https://modzone.ru/documentation/admintools.html) - компонент для улучшения админ панели - вывод ссылку на шаблон при редактировании ресурса, позволяет добавить в избранное часто редактируемые чанки, заметки, авторизация в админке через e-mail, цветовая схема админки
 * modDevTools - компонент для ввода хлебнх крошек + выводит чанки, которые использутся в шаблоне (ВНИМАНИЕ - есть конфликт с admintools)
-* pThumb - более удобный компонент для вывода обрезанных или уменьшенных изображений (содержит параметры для указания угла обрезки) и водяного знака, альтернативные phpthumb(of) ([on](https://modstore.pro/packages/photos-and-files/phpthumbon) чуть поновее)
+* [pThumb](https://daruse.ru/rezajzer-izobrazhenij-v-modx-revo-pthumb) - более удобный компонент для вывода обрезанных или уменьшенных изображений (содержит параметры для указания угла обрезки) и водяного знака, альтернативные phpthumb(of) ([on](https://modstore.pro/packages/photos-and-files/phpthumbon) чуть поновее)
 #### Российский репозиторий [modstore.pro](https://modstore.pro/)
 * [AdminPanel](https://modstore.pro/packages/utilities/adminpanel) - редактирование страницы после авторизации в админке
 * DateAgo - вывод даты используя форматы "5 минут назад", "час назад" и д.р.
@@ -63,5 +64,7 @@
 * [Контроль кэша css и js](https://webstool.ru/kak-kontrolirovat-kesh-css-i-skriptov.html) - через сниппет проверяем хеш-файла (так делают многие гиганты интернета, чтобы не заставлять юзеров жать ctrl + f5)
 * Формы обратной связи (чтоы использовать отдельные компоненты системы) [webstool](https://webstool.ru/feedbackform.html) - пока не рассмотрел :-), [itChief](https://itchief.ru/lessons/php/pop-up-feedback-form#comment-5306) - выгрузка форм из одного файла, [WebDesignMaster](https://webdesign-master.ru/blog/tools/578.html) - любое кол-во полей
 ### Расширения для Google Chrome
-* 
+* MeasureIt - размер выделенной области
+* [Поиск по картинке](https://chrome.google.com/webstore/detail/image-search/cnafldpjebmpkibjdogkhifhnljdifae) - поиск исходного изображения по множеству источников
 * [Топвизор](Топвизор) - нумерация позиий сайтов в поисковой выдаче, бытрый переход к проектам, апометру и API
+* [Yandex Wordstat Keywords Add](https://chrome.google.com/webstore/detail/yandex-wordstat-keywords/onaeegcgechoaflpkpmdcbgmdfhbbibp) - добавление фраз из wordstat при рабте с одноименным сервисом
