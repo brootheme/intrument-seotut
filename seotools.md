@@ -1,3 +1,7 @@
+## SEO инструменты
+* [Букмарклеты](https://arsenkin.ru/tools/bookmarklet/) - набор закладок из javascript кода, которыю дают массу информации о странице
+* [Выгрузка топ10](https://arsenkin.ru/tools/check-h/) - инструмент выгрузки h1-6, title, description по нужному запросу
+* [Переоптимизация](https://arsenkin.ru/tools/filter/) - проверка на фильтр Яндекса - Переоптимизация
 ## Обжимание изображений
 #### Онлайн сервисы
 [Источник](https://habrahabr.ru/company/hosting-cafe/blog/325262/) для сбора инструментов
