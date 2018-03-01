@@ -23,7 +23,10 @@
 * [customScrollBar](https://github.com/malihu/malihu-custom-scrollbar-plugin) и [DEMO](http://manos.malihu.gr/repository/custom-scrollbar/demo/examples/complete_examples.html) - множество скролл баров
 * [animateCSS](https://github.com/daneden/animate.css) - Анимации элементов сайта, лучше использовать с WOW (ниже)
 * [WOW](https://github.com/matthieua/WOW) - запуск после попадания в область видимости
+* [off-screen навигация](http://ascott1.github.io/bigSlide.js/) or [Slidebars](https://www.adchsm.com/slidebars/) - создание меню, выезжающего сбоку
+* [masonry](https://masonry.desandro.com/) - для оптимального динамического размещения различных блоков с информацией на страницах сайтас максимальным использованием свободного места.
 * [SPIN](http://spin.js.org/) - Создает SPIN (прелоадер круговой)
+* [FullPage](https://github.com/alvarotrigo/fullPage.js) - Создание сайта с прокруткой по слайдам
 ## Обжимание изображений
 #### Онлайн сервисы
 * [compressor.io](https://compressor.io/compress) - отличное сжимание изображения без потерь, недостатки: по 1 файлу, к названию добавляет -compressor
