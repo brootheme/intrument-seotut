@@ -71,8 +71,8 @@
 * [Контроль кэша css и js](https://webstool.ru/kak-kontrolirovat-kesh-css-i-skriptov.html) - через сниппет проверяем хеш-файла (так делают многие гиганты интернета, чтобы не заставлять юзеров жать ctrl + f5)
 * Формы обратной связи (чтоы использовать отдельные компоненты системы) [webstool](https://webstool.ru/feedbackform.html) - пока не рассмотрел :-), [itChief](https://itchief.ru/lessons/php/pop-up-feedback-form#comment-5306) - выгрузка форм из одного файла, [WebDesignMaster](https://webdesign-master.ru/blog/tools/578.html) - любое кол-во полей
 ### Расширения для Google Chrome
-* MeasureIt - размер выделенной области
+* [MeasureIt](https://chrome.google.com/webstore/detail/measureit/eneobbpcncebjlmiffdgknplkllgjaji) - размер выделенной области
 * [Поиск по картинке](https://chrome.google.com/webstore/detail/image-search/cnafldpjebmpkibjdogkhifhnljdifae) - поиск исходного изображения по множеству источников
 * [Топвизор](Топвизор) - нумерация позиий сайтов в поисковой выдаче, бытрый переход к проектам, апометру и API
 * [Yandex Wordstat Keywords Add](https://chrome.google.com/webstore/detail/yandex-wordstat-keywords/onaeegcgechoaflpkpmdcbgmdfhbbibp) - добавление фраз из wordstat при рабте с одноименным сервисом
-* [https://chrome.google.com/webstore/detail/%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0/gohkhnlapkabjdchabokoddamjgaejnn](Яндекс Метрика) - быстрый переход к метрике, установленной на сайте, также позволяет просмотреть карту скролинга, кликов, аналитика форм.
+* [Яндекс Метрика](https://chrome.google.com/webstore/detail/%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0/gohkhnlapkabjdchabokoddamjgaejnn) - быстрый переход к метрике, установленной на сайте, также позволяет просмотреть карту скролинга, кликов, аналитика форм.
