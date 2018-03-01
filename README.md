@@ -72,3 +72,4 @@
 * [Поиск по картинке](https://chrome.google.com/webstore/detail/image-search/cnafldpjebmpkibjdogkhifhnljdifae) - поиск исходного изображения по множеству источников
 * [Топвизор](Топвизор) - нумерация позиий сайтов в поисковой выдаче, бытрый переход к проектам, апометру и API
 * [Yandex Wordstat Keywords Add](https://chrome.google.com/webstore/detail/yandex-wordstat-keywords/onaeegcgechoaflpkpmdcbgmdfhbbibp) - добавление фраз из wordstat при рабте с одноименным сервисом
+* [https://chrome.google.com/webstore/detail/%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0/gohkhnlapkabjdchabokoddamjgaejnn](Яндекс Метрика) - быстрый переход к метрике, установленной на сайте, также позволяет просмотреть карту скролинга, кликов, аналитика форм.
