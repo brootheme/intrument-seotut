@@ -13,6 +13,7 @@
 
 # JQuery
 ## Библиотеки и решения
+* [headroom](https://github.com/WickyNilliams/headroom.js) - хорошая закрепляемая шапка (скрывается при скроле вниз, появляется при скроле наверх)
 * [niceSelect](http://hernansartorio.com/jquery-nice-select/) - делает красивый селект (выпадающий список)
 * [searchable select](https://www.jqueryscript.net/form/jQuery-Plugin-For-Custom-Searchable-Select-List-Customselect.html) - поиск в селекте (выпадающем списке) 
 * [slick-slide](http://kenwheeler.github.io/slick/) - адаптивный слайдер с множеством функций
