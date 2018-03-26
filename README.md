@@ -34,6 +34,7 @@
 * [TinyJpg](https://tinyjpg.com/) - для jpg изображений
 * [TinyPng](https://tinypng.com/) - для png изображений
 ## Полезные сервисы
+* [beautifytools](http://beautifytools.com/) - Набор конвертеров и инструментов почти на все случаи жизни
 * [CodePen.io](https://codepen.io/) - наборы pen'ов с готовыми примерами
 * [FlatIcon.com](https://www.flaticon.com/) - наборы готовых иконок, в том числе и с svg
 * [w3school](https://www.w3schools.com/howto/default.asp) - набор готовых элементов
