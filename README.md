@@ -38,7 +38,7 @@
 * [CodePen.io](https://codepen.io/) - наборы pen'ов с готовыми примерами
 * [FlatIcon.com](https://www.flaticon.com/) - наборы готовых иконок, в том числе и с svg
 * [w3school](https://www.w3schools.com/howto/default.asp) - набор готовых элементов
-* [caniuse.com](https://caniuse.com/) - поддержка бразуерами тегов html и css
+* [caniuse.com](https://caniuse.com/) - поддержка браузерами тегов html и css
 * [css_to_saas](http://css2sass.herokuapp.com/) - онлайн компилятор css в sass или scss
 * [cvan.io](https://cvan.io/flexboxin5/) - FLEX визуально все свойства
 * [301 редирект](https://web-optimizator.com/301-redirekt-htaccess/) - набор редиректов на все случаи жизни
