@@ -45,6 +45,7 @@
 * [phx](https://gaserge.ru/blog/modx-revolution/filtryi-phx-(-modifikatoryi-)-v-modx-revo.html) - примеры phx модификаторов
 * [тестирование производительности хостинга](https://tools.lite.company/performance/) - скачать файл и поместить в корень сайта, при запуске вывдет информацию о железе хостинга
 * [PDFto*](https://smallpdf.com/ru/pdf-to-word) - хороший конвертер из pdf в word, excel, jpg и обратно
+* [Спецсимволы](https://html5book.ru/specsimvoly-html/) - набор кодов для Html и css для вставки спецсимволов 
 ## Гайды, рекомендации
 * [Абревиатуры CSS](https://github.com/nicothin/idiomatic-pre-CSS/blob/gh-pages/words_and_abbreviations.md) - Сокращения и абревиатуры для наименования css классов
 * [Частые слова](https://github.com/yoksel/common-words) - наиболее часто используемые слова
